@@ -5,7 +5,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
-<title>LTSM Web System | Sign In</title>
+<title>Fenya Demo | Sign In</title>
 <!-- HTML5 Shim and Respond.js IE9 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -36,7 +36,7 @@
 				<div class="login-card card-block auth-body mr-auto ml-auto">
 					
 						<div class="text-center">
-							<img src="resources/assets/images/auth/LTSMLogoBig.png" alt="logo.png">
+							<!-- <img src="resources/assets/images/auth/LTSMLogoBig.png" alt="logo.png"> -->
 						</div>
 						<div class="auth-box">
 							<div class="row m-b-20">
@@ -74,7 +74,7 @@
 							<!--login form-->
 							<div class="row">
 								<div class="col-md-10">
-									<p class="text-inverse text-left m-b-0">NWED © Copyright
+									<p class="text-inverse text-left m-b-0">FTPS © Copyright
 										2018 All Rights Reserved.</p>
 
 								</div>

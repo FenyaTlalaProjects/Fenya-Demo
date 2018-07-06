@@ -4,7 +4,7 @@
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <html lang="en">
 <head>
-<title>LTSM Web System | Home</title>
+<title>Fenya Demo | Home</title>
 <!-- HTML5 Shim and Respond.js IE9 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
